@@ -1,0 +1,6 @@
+02187.*A   SFO  SAN FRANCISCO INTL                                
+test if 02187.*A : true
+test if 04508.*A : false
+04508.*A   09R/27L 7967
+test if 02187.*A : false
+test if 04508.*A : true
